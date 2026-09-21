@@ -4,6 +4,7 @@ public class lab2 {
         System.out.println("Hello from feature branch!");
     //jazy 
      swe
+         --
     }
 }
 
